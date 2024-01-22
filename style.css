@@ -1,0 +1,22 @@
+.main-body{
+    background-color: rgb(228, 234, 228);
+    height: 800px;
+
+    text-align: center;
+    /* margin-top: 50px; */
+    
+
+}
+
+.fa-brands{
+    color: blue;
+    font-size: 50px;
+}
+.align-part{
+    background-color: white;
+    padding: 20px 10px 15px 25px;
+
+    margin: 30px;
+    border-radius: 25px;
+    
+}
